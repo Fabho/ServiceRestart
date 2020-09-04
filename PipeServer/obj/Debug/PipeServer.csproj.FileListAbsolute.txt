@@ -1,0 +1,11 @@
+F:\PipeTest\PipeServer\bin\Debug\PipeServer.exe.config
+F:\PipeTest\PipeServer\bin\Debug\PipeServer.exe
+F:\PipeTest\PipeServer\bin\Debug\PipeServer.pdb
+F:\PipeTest\PipeServer\bin\Debug\PipeClient.exe
+F:\PipeTest\PipeServer\bin\Debug\PipeClient.pdb
+F:\PipeTest\PipeServer\bin\Debug\PipeClient.exe.config
+F:\PipeTest\PipeServer\obj\Debug\PipeServer.csprojAssemblyReference.cache
+F:\PipeTest\PipeServer\obj\Debug\PipeServer.csproj.CoreCompileInputs.cache
+F:\PipeTest\PipeServer\obj\Debug\PipeServer.csproj.CopyComplete
+F:\PipeTest\PipeServer\obj\Debug\PipeServer.exe
+F:\PipeTest\PipeServer\obj\Debug\PipeServer.pdb

@@ -1,0 +1,7 @@
+F:\PipeTest\PipeClient\bin\Debug\PipeClient.exe.config
+F:\PipeTest\PipeClient\bin\Debug\PipeClient.exe
+F:\PipeTest\PipeClient\bin\Debug\PipeClient.pdb
+F:\PipeTest\PipeClient\obj\Debug\PipeClient.csprojAssemblyReference.cache
+F:\PipeTest\PipeClient\obj\Debug\PipeClient.csproj.CoreCompileInputs.cache
+F:\PipeTest\PipeClient\obj\Debug\PipeClient.exe
+F:\PipeTest\PipeClient\obj\Debug\PipeClient.pdb
